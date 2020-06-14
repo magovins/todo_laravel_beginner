@@ -8,7 +8,6 @@
 	</a>
 </div>	
 <x-alert/>
-<!--  action="   route('todo.update',['todo'=>$todo->id] "  se ho più parametri -->
 <form action="{{ route('todo.update', $todo->id) }}" method="post" accept-charset="utf-8" class="py-5">
 	@csrf
 	@method('patch')
