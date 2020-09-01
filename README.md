@@ -1,5 +1,11 @@
 <h3>Click <a href="https://todo-larvel.herokuapp.com">here</a> for demo.</h3>
 
+<h3>Screenshots:<h3>
+<img src="public/screenshots/Screenshot_2020-08-03 Todo List(1).png" width="326" height="125" align="top">
+<img src="public/screenshots/Screenshot_2020-08-03 Todo List(5).png" width="327" height="165" align="top">
+<img src="public/screenshots/Screenshot_2020-08-03 Todo List(3).png" width="327" height="209" align="top">
+<img src="public/screenshots/Screenshot_2020-08-03 Todo List(2).png" width="325" height="390" align="top">
+<img src="public/screenshots/Screenshot_2020-08-03 Todo List(4).png" width="329" height="308" align="top">
 
 
 
